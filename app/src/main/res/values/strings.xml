@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Photo_frame_app</string>
+    <string name="first_img">first_img</string>
+    <string name="prev_button">prev_button</string>
+    <string name="next_button">next_button</string>
+    <string name="nature1">Nature1</string>
+</resources>
